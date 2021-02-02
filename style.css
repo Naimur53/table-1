@@ -1,0 +1,40 @@
+table{
+	margin:20px 40px;
+	
+}
+table,tr,td{
+	 border:1px solid #CACFD2;
+	 border-collapse:collapse;
+	 
+	
+ }
+ .headcolor{
+	 background-color:#3498DB;
+	 color:#fff;
+	 font-weight:bold;
+	 
+ }
+ .tr1{
+	 background-color:#F2F3F4;
+	 
+ }
+ td{
+	 
+	 width:100px;
+	  
+ }
+ .job{
+	 width:200px;
+	 
+ }
+ .twitter{
+	 width:120px;
+	 
+ }
+ .main-div{
+	 display:flex;
+	 width:100%;
+	 min-height:100vh;
+	 justify-content:center;
+	 align-items: center;
+ }
